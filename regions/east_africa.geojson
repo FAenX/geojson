@@ -1,115 +1,70 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          40.539526538198686,
-          6.944029710818043
-        ],
-        "type": "Point"
+  "currentVersion": 10.81,
+  "serviceDescription": "The EBSAs are special areas in the ocean that serve important purposes, in one way or another, to support the healthy functioning of oceans and the many services that it provides.",
+  "mapName": "Layers",
+  "description": "",
+  "copyrightText": "CBD",
+  "supportsDynamicLayers": true,
+  "layers": [
+      {
+          "id": 0,
+          "name": "Ecologically or Biologically Significant Marine Areas (EBSAs)",
+          "parentLayerId": -1,
+          "defaultVisibility": true,
+          "subLayerIds": null,
+          "minScale": 0,
+          "maxScale": 0,
+          "type": "Feature Layer",
+          "geometryType": "esriGeometryPolygon"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          38.79237271938513,
-          0.06320971303783551
-        ],
-        "type": "Point"
+  ],
+  "tables": [],
+  "spatialReference": {
+      "wkid": 102100,
+      "latestWkid": 3857
+  },
+  "singleFusedMapCache": false,
+  "initialExtent": {
+      "xmin": -20724123.031156715,
+      "ymin": -10913.624533347785,
+      "xmax": 20724123.031156715,
+      "ymax": 22368130.302033342,
+      "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          45.831340538606696,
-          4.046871402221726
-        ],
-        "type": "Point"
+  },
+  "fullExtent": {
+      "xmin": -20037507.0672,
+      "ymin": -7883755.2809000015,
+      "xmax": 20037507.067199998,
+      "ymax": 30240971.958400004,
+      "spatialReference": {
+          "wkid": 102100,
+          "latestWkid": 3857
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          55.76418184692224,
-          -4.688214349664349
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          45.21327574526569,
-          -13.349566893803043
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          28.72593840807653,
-          -6.957193163462492
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          30.90026220399443,
-          6.211757931762676
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          25.088036515910062,
-          21.99291013342703
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          60.92006016512778,
-          10.760576653557337
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          43.952694619104136,
-          26.057063044544634
-        ],
-        "type": "Point"
-      }
-    }
-  ]
+  },
+  "minScale": 0,
+  "maxScale": 0,
+  "units": "esriMeters",
+  "supportedImageFormatTypes": "PNG32,PNG24,PNG,JPG,DIB,TIFF,EMF,PS,PDF,GIF,SVG,SVGZ,BMP",
+  "documentInfo": {
+      "Title": "",
+      "Author": "",
+      "Comments": "The EBSAs are special areas in the ocean that serve important purposes, in one way or another, to support the healthy functioning of oceans and the many services that it provides.",
+      "Subject": "Ecologically or Biologically Significant Marine Areas (EBSAs)",
+      "Category": "",
+      "AntialiasingMode": "None",
+      "TextAntialiasingMode": "Force",
+      "Keywords": "GLOBIL,Marine,WWF,WWF Norway,WWF-SIGHT,EBSAs"
+  },
+  "capabilities": "Map,Query,Data",
+  "supportedQueryFormats": "JSON, geoJSON",
+  "exportTilesAllowed": false,
+  "referenceScale": 0,
+  "supportsDatumTransformation": true,
+  "maxRecordCount": 99999,
+  "maxImageHeight": 4096,
+  "maxImageWidth": 4096,
+  "supportedExtensions": "KmlServer"
 }
