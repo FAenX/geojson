@@ -1,0 +1,3006 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "featurecla": "Admin-0 country",
+                "scalerank": 1,
+                "labelrank": 2,
+                "sovereignt": "Kenya",
+                "sov_a3": "KEN",
+                "adm0_dif": 0,
+                "level": 2,
+                "type": "Sovereign country",
+                "tlc": "1",
+                "admin": "Kenya",
+                "adm0_a3": "KEN",
+                "geou_dif": 0,
+                "geounit": "Kenya",
+                "gu_a3": "KEN",
+                "su_dif": 0,
+                "subunit": "Kenya",
+                "su_a3": "KEN",
+                "brk_diff": 0,
+                "name": "Kenya",
+                "name_long": "Kenya",
+                "brk_a3": "KEN",
+                "brk_name": "Kenya",
+                "brk_group": null,
+                "abbrev": "Ken.",
+                "postal": "KE",
+                "formal_en": "Republic of Kenya",
+                "formal_fr": null,
+                "name_ciawf": "Kenya",
+                "note_adm0": null,
+                "note_brk": null,
+                "name_sort": "Kenya",
+                "name_alt": null,
+                "mapcolor7": 5,
+                "mapcolor8": 2,
+                "mapcolor9": 7,
+                "mapcolor13": 3,
+                "pop_est": 52573973,
+                "pop_rank": 16,
+                "pop_year": 2019,
+                "gdp_md": 95503,
+                "gdp_year": 2019,
+                "economy": "5. Emerging region: G20",
+                "income_grp": "5. Low income",
+                "fips_10": "KE",
+                "iso_a2": "KE",
+                "iso_a2_eh": "KE",
+                "iso_a3": "KEN",
+                "iso_a3_eh": "KEN",
+                "iso_n3": "404",
+                "iso_n3_eh": "404",
+                "un_a3": "404",
+                "wb_a2": "KE",
+                "wb_a3": "KEN",
+                "woe_id": 23424863,
+                "woe_id_eh": 23424863,
+                "woe_note": "Exact WOE match as country",
+                "adm0_iso": "KEN",
+                "adm0_diff": null,
+                "adm0_tlc": "KEN",
+                "adm0_a3_us": "KEN",
+                "adm0_a3_fr": "KEN",
+                "adm0_a3_ru": "KEN",
+                "adm0_a3_es": "KEN",
+                "adm0_a3_cn": "KEN",
+                "adm0_a3_tw": "KEN",
+                "adm0_a3_in": "KEN",
+                "adm0_a3_np": "KEN",
+                "adm0_a3_pk": "KEN",
+                "adm0_a3_de": "KEN",
+                "adm0_a3_gb": "KEN",
+                "adm0_a3_br": "KEN",
+                "adm0_a3_il": "KEN",
+                "adm0_a3_ps": "KEN",
+                "adm0_a3_sa": "KEN",
+                "adm0_a3_eg": "KEN",
+                "adm0_a3_ma": "KEN",
+                "adm0_a3_pt": "KEN",
+                "adm0_a3_ar": "KEN",
+                "adm0_a3_jp": "KEN",
+                "adm0_a3_ko": "KEN",
+                "adm0_a3_vn": "KEN",
+                "adm0_a3_tr": "KEN",
+                "adm0_a3_id": "KEN",
+                "adm0_a3_pl": "KEN",
+                "adm0_a3_gr": "KEN",
+                "adm0_a3_it": "KEN",
+                "adm0_a3_nl": "KEN",
+                "adm0_a3_se": "KEN",
+                "adm0_a3_bd": "KEN",
+                "adm0_a3_ua": "KEN",
+                "adm0_a3_un": -99,
+                "adm0_a3_wb": -99,
+                "continent": "Africa",
+                "region_un": "Africa",
+                "subregion": "Eastern Africa",
+                "region_wb": "Sub-Saharan Africa",
+                "name_len": 5,
+                "long_len": 5,
+                "abbrev_len": 4,
+                "tiny": -99,
+                "homepart": 1,
+                "min_zoom": 0,
+                "min_label": 1.7,
+                "max_label": 6.7,
+                "label_x": 37.907632,
+                "label_y": 0.549043,
+                "ne_id": 1159320971,
+                "wikidataid": "Q114",
+                "name_ar": "كينيا",
+                "name_bn": "কেনিয়া",
+                "name_de": "Kenia",
+                "name_en": "Kenya",
+                "name_es": "Kenia",
+                "name_fa": "کنیا",
+                "name_fr": "Kenya",
+                "name_el": "Κένυα",
+                "name_he": "קניה",
+                "name_hi": "कीनिया",
+                "name_hu": "Kenya",
+                "name_id": "Kenya",
+                "name_it": "Kenya",
+                "name_ja": "ケニア",
+                "name_ko": "케냐",
+                "name_nl": "Kenia",
+                "name_pl": "Kenia",
+                "name_pt": "Quénia",
+                "name_ru": "Кения",
+                "name_sv": "Kenya",
+                "name_tr": "Kenya",
+                "name_uk": "Кенія",
+                "name_ur": "کینیا",
+                "name_vi": "Kenya",
+                "name_zh": "肯尼亚",
+                "name_zht": "肯亞",
+                "fclass_iso": "Admin-0 country",
+                "tlc_diff": null,
+                "fclass_tlc": "Admin-0 country",
+                "fclass_us": null,
+                "fclass_fr": null,
+                "fclass_ru": null,
+                "fclass_es": null,
+                "fclass_cn": null,
+                "fclass_tw": null,
+                "fclass_in": null,
+                "fclass_np": null,
+                "fclass_pk": null,
+                "fclass_de": null,
+                "fclass_gb": null,
+                "fclass_br": null,
+                "fclass_il": null,
+                "fclass_ps": null,
+                "fclass_sa": null,
+                "fclass_eg": null,
+                "fclass_ma": null,
+                "fclass_pt": null,
+                "fclass_ar": null,
+                "fclass_jp": null,
+                "fclass_ko": null,
+                "fclass_vn": null,
+                "fclass_tr": null,
+                "fclass_id": null,
+                "fclass_pl": null,
+                "fclass_gr": null,
+                "fclass_it": null,
+                "fclass_nl": null,
+                "fclass_se": null,
+                "fclass_bd": null,
+                "fclass_ua": null,
+                "filename": "KEN.geojson"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            39.20222,
+                            -4.67677
+                        ],
+                        [
+                            37.7669,
+                            -3.67712
+                        ],
+                        [
+                            37.69869,
+                            -3.09699
+                        ],
+                        [
+                            34.07262,
+                            -1.05982
+                        ],
+                        [
+                            33.90371119710453,
+                            -0.95
+                        ],
+                        [
+                            33.893568969666944,
+                            0.109813537861896
+                        ],
+                        [
+                            34.18,
+                            0.515
+                        ],
+                        [
+                            34.6721,
+                            1.17694
+                        ],
+                        [
+                            35.03599,
+                            1.90584
+                        ],
+                        [
+                            34.59607,
+                            3.053740000000118
+                        ],
+                        [
+                            34.47913,
+                            3.5556
+                        ],
+                        [
+                            34.005,
+                            4.249884947362048
+                        ],
+                        [
+                            34.62019626785388,
+                            4.847122742081988
+                        ],
+                        [
+                            35.29800711823298,
+                            5.506
+                        ],
+                        [
+                            35.817447662353516,
+                            5.338232082790797
+                        ],
+                        [
+                            35.817447662353516,
+                            4.77696566346189
+                        ],
+                        [
+                            36.159078632855646,
+                            4.447864127672769
+                        ],
+                        [
+                            36.85509323800812,
+                            4.447864127672769
+                        ],
+                        [
+                            38.120915,
+                            3.598605
+                        ],
+                        [
+                            38.43697,
+                            3.58851
+                        ],
+                        [
+                            38.67114,
+                            3.61607
+                        ],
+                        [
+                            38.89251,
+                            3.50074
+                        ],
+                        [
+                            39.55938425876585,
+                            3.42206
+                        ],
+                        [
+                            39.85494,
+                            3.83879
+                        ],
+                        [
+                            40.76848,
+                            4.25702
+                        ],
+                        [
+                            41.1718,
+                            3.91909
+                        ],
+                        [
+                            41.85508309264397,
+                            3.918911920483727
+                        ],
+                        [
+                            40.98105,
+                            2.78452
+                        ],
+                        [
+                            40.993,
+                            -0.85829
+                        ],
+                        [
+                            41.58513,
+                            -1.68325
+                        ],
+                        [
+                            40.88477,
+                            -2.08255
+                        ],
+                        [
+                            40.63785,
+                            -2.49979
+                        ],
+                        [
+                            40.26304,
+                            -2.57309
+                        ],
+                        [
+                            40.12119,
+                            -3.27768
+                        ],
+                        [
+                            39.80006,
+                            -3.68116
+                        ],
+                        [
+                            39.60489,
+                            -4.34653
+                        ],
+                        [
+                            39.20222,
+                            -4.67677
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "featurecla": "Admin-0 country",
+                "scalerank": 1,
+                "labelrank": 3,
+                "sovereignt": "Zambia",
+                "sov_a3": "ZMB",
+                "adm0_dif": 0,
+                "level": 2,
+                "type": "Sovereign country",
+                "tlc": "1",
+                "admin": "Zambia",
+                "adm0_a3": "ZMB",
+                "geou_dif": 0,
+                "geounit": "Zambia",
+                "gu_a3": "ZMB",
+                "su_dif": 0,
+                "subunit": "Zambia",
+                "su_a3": "ZMB",
+                "brk_diff": 0,
+                "name": "Zambia",
+                "name_long": "Zambia",
+                "brk_a3": "ZMB",
+                "brk_name": "Zambia",
+                "brk_group": null,
+                "abbrev": "Zambia",
+                "postal": "ZM",
+                "formal_en": "Republic of Zambia",
+                "formal_fr": null,
+                "name_ciawf": "Zambia",
+                "note_adm0": null,
+                "note_brk": null,
+                "name_sort": "Zambia",
+                "name_alt": null,
+                "mapcolor7": 5,
+                "mapcolor8": 8,
+                "mapcolor9": 5,
+                "mapcolor13": 13,
+                "pop_est": 17861030,
+                "pop_rank": 14,
+                "pop_year": 2019,
+                "gdp_md": 23309,
+                "gdp_year": 2019,
+                "economy": "7. Least developed region",
+                "income_grp": "4. Lower middle income",
+                "fips_10": "ZA",
+                "iso_a2": "ZM",
+                "iso_a2_eh": "ZM",
+                "iso_a3": "ZMB",
+                "iso_a3_eh": "ZMB",
+                "iso_n3": "894",
+                "iso_n3_eh": "894",
+                "un_a3": "894",
+                "wb_a2": "ZM",
+                "wb_a3": "ZMB",
+                "woe_id": 23425003,
+                "woe_id_eh": 23425003,
+                "woe_note": "Exact WOE match as country",
+                "adm0_iso": "ZMB",
+                "adm0_diff": null,
+                "adm0_tlc": "ZMB",
+                "adm0_a3_us": "ZMB",
+                "adm0_a3_fr": "ZMB",
+                "adm0_a3_ru": "ZMB",
+                "adm0_a3_es": "ZMB",
+                "adm0_a3_cn": "ZMB",
+                "adm0_a3_tw": "ZMB",
+                "adm0_a3_in": "ZMB",
+                "adm0_a3_np": "ZMB",
+                "adm0_a3_pk": "ZMB",
+                "adm0_a3_de": "ZMB",
+                "adm0_a3_gb": "ZMB",
+                "adm0_a3_br": "ZMB",
+                "adm0_a3_il": "ZMB",
+                "adm0_a3_ps": "ZMB",
+                "adm0_a3_sa": "ZMB",
+                "adm0_a3_eg": "ZMB",
+                "adm0_a3_ma": "ZMB",
+                "adm0_a3_pt": "ZMB",
+                "adm0_a3_ar": "ZMB",
+                "adm0_a3_jp": "ZMB",
+                "adm0_a3_ko": "ZMB",
+                "adm0_a3_vn": "ZMB",
+                "adm0_a3_tr": "ZMB",
+                "adm0_a3_id": "ZMB",
+                "adm0_a3_pl": "ZMB",
+                "adm0_a3_gr": "ZMB",
+                "adm0_a3_it": "ZMB",
+                "adm0_a3_nl": "ZMB",
+                "adm0_a3_se": "ZMB",
+                "adm0_a3_bd": "ZMB",
+                "adm0_a3_ua": "ZMB",
+                "adm0_a3_un": -99,
+                "adm0_a3_wb": -99,
+                "continent": "Africa",
+                "region_un": "Africa",
+                "subregion": "Eastern Africa",
+                "region_wb": "Sub-Saharan Africa",
+                "name_len": 6,
+                "long_len": 6,
+                "abbrev_len": 6,
+                "tiny": -99,
+                "homepart": 1,
+                "min_zoom": 0,
+                "min_label": 3,
+                "max_label": 8,
+                "label_x": 26.395298,
+                "label_y": -14.660804,
+                "ne_id": 1159321439,
+                "wikidataid": "Q953",
+                "name_ar": "زامبيا",
+                "name_bn": "জাম্বিয়া",
+                "name_de": "Sambia",
+                "name_en": "Zambia",
+                "name_es": "Zambia",
+                "name_fa": "زامبیا",
+                "name_fr": "Zambie",
+                "name_el": "Ζάμπια",
+                "name_he": "זמביה",
+                "name_hi": "ज़ाम्बिया",
+                "name_hu": "Zambia",
+                "name_id": "Zambia",
+                "name_it": "Zambia",
+                "name_ja": "ザンビア",
+                "name_ko": "잠비아",
+                "name_nl": "Zambia",
+                "name_pl": "Zambia",
+                "name_pt": "Zâmbia",
+                "name_ru": "Замбия",
+                "name_sv": "Zambia",
+                "name_tr": "Zambiya",
+                "name_uk": "Замбія",
+                "name_ur": "زیمبیا",
+                "name_vi": "Zambia",
+                "name_zh": "赞比亚",
+                "name_zht": "尚比亞",
+                "fclass_iso": "Admin-0 country",
+                "tlc_diff": null,
+                "fclass_tlc": "Admin-0 country",
+                "fclass_us": null,
+                "fclass_fr": null,
+                "fclass_ru": null,
+                "fclass_es": null,
+                "fclass_cn": null,
+                "fclass_tw": null,
+                "fclass_in": null,
+                "fclass_np": null,
+                "fclass_pk": null,
+                "fclass_de": null,
+                "fclass_gb": null,
+                "fclass_br": null,
+                "fclass_il": null,
+                "fclass_ps": null,
+                "fclass_sa": null,
+                "fclass_eg": null,
+                "fclass_ma": null,
+                "fclass_pt": null,
+                "fclass_ar": null,
+                "fclass_jp": null,
+                "fclass_ko": null,
+                "fclass_vn": null,
+                "fclass_tr": null,
+                "fclass_id": null,
+                "fclass_pl": null,
+                "fclass_gr": null,
+                "fclass_it": null,
+                "fclass_nl": null,
+                "fclass_se": null,
+                "fclass_bd": null,
+                "fclass_ua": null,
+                "filename": "ZMB.geojson"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            30.740009731422095,
+                            -8.34000593035372
+                        ],
+                        [
+                            31.15775133695005,
+                            -8.594578747317366
+                        ],
+                        [
+                            31.556348097466497,
+                            -8.762048841998642
+                        ],
+                        [
+                            32.19186486179194,
+                            -8.930358981973257
+                        ],
+                        [
+                            32.75937544122132,
+                            -9.23059905358906
+                        ],
+                        [
+                            33.2313879737753,
+                            -9.6767216935648
+                        ],
+                        [
+                            33.48568769708359,
+                            -10.525558770391115
+                        ],
+                        [
+                            33.315310499817286,
+                            -10.796549981329697
+                        ],
+                        [
+                            33.114289178201915,
+                            -11.607198174692314
+                        ],
+                        [
+                            33.306422153463075,
+                            -12.435778090060218
+                        ],
+                        [
+                            32.991764357237884,
+                            -12.783870537978274
+                        ],
+                        [
+                            32.68816531752313,
+                            -13.712857761289277
+                        ],
+                        [
+                            33.214024692525214,
+                            -13.971860039936153
+                        ],
+                        [
+                            30.17948123548183,
+                            -14.796099134991529
+                        ],
+                        [
+                            30.27425581230511,
+                            -15.507786960515213
+                        ],
+                        [
+                            29.516834344203147,
+                            -15.644677829656388
+                        ],
+                        [
+                            28.947463413211267,
+                            -16.04305144619444
+                        ],
+                        [
+                            28.8258687680285,
+                            -16.389748630440614
+                        ],
+                        [
+                            28.467906121542683,
+                            -16.468400160388846
+                        ],
+                        [
+                            27.59824344250276,
+                            -17.290830580314008
+                        ],
+                        [
+                            27.044427117630732,
+                            -17.938026218337434
+                        ],
+                        [
+                            26.70677330903564,
+                            -17.961228936436484
+                        ],
+                        [
+                            26.381935255648926,
+                            -17.8460421688579
+                        ],
+                        [
+                            25.264225701608012,
+                            -17.736539808831417
+                        ],
+                        [
+                            25.08444339366457,
+                            -17.661815687737374
+                        ],
+                        [
+                            25.07695031098226,
+                            -17.57882333747662
+                        ],
+                        [
+                            24.682349074001507,
+                            -17.353410739819473
+                        ],
+                        [
+                            24.033861525170778,
+                            -17.295843194246324
+                        ],
+                        [
+                            23.215048455506064,
+                            -17.523116143465984
+                        ],
+                        [
+                            22.56247846852426,
+                            -16.898451429921813
+                        ],
+                        [
+                            21.887842644953874,
+                            -16.08031015387688
+                        ],
+                        [
+                            21.933886346125917,
+                            -12.898437188369359
+                        ],
+                        [
+                            24.016136508894675,
+                            -12.911046237848574
+                        ],
+                        [
+                            23.930922072045377,
+                            -12.565847670138856
+                        ],
+                        [
+                            24.079905226342845,
+                            -12.191296888887365
+                        ],
+                        [
+                            23.904153680118185,
+                            -11.722281589406322
+                        ],
+                        [
+                            24.01789350759259,
+                            -11.23729827234709
+                        ],
+                        [
+                            23.912215203555718,
+                            -10.926826267137514
+                        ],
+                        [
+                            24.25715538910399,
+                            -10.951992689663657
+                        ],
+                        [
+                            24.31451622894795,
+                            -11.26282642989927
+                        ],
+                        [
+                            24.78316979340295,
+                            -11.238693536018964
+                        ],
+                        [
+                            25.418118116973204,
+                            -11.330935967659961
+                        ],
+                        [
+                            25.752309604604733,
+                            -11.784965101776358
+                        ],
+                        [
+                            26.553087599399618,
+                            -11.924439792532127
+                        ],
+                        [
+                            27.164419793412463,
+                            -11.608748467661075
+                        ],
+                        [
+                            27.388798862423783,
+                            -12.132747491100666
+                        ],
+                        [
+                            28.155108676879987,
+                            -12.272480564017897
+                        ],
+                        [
+                            28.523561639121027,
+                            -12.698604424696683
+                        ],
+                        [
+                            28.934285922976837,
+                            -13.248958428605135
+                        ],
+                        [
+                            29.69961388521949,
+                            -13.257226657771831
+                        ],
+                        [
+                            29.61600141777123,
+                            -12.178894545137311
+                        ],
+                        [
+                            29.34154788586909,
+                            -12.360743910372413
+                        ],
+                        [
+                            28.642417433392353,
+                            -11.971568698782315
+                        ],
+                        [
+                            28.372253045370428,
+                            -11.793646742401393
+                        ],
+                        [
+                            28.49606977714177,
+                            -10.789883721564046
+                        ],
+                        [
+                            28.67368167492893,
+                            -9.605924981324932
+                        ],
+                        [
+                            28.449871046672826,
+                            -9.164918308146085
+                        ],
+                        [
+                            28.734866570762502,
+                            -8.526559340044578
+                        ],
+                        [
+                            29.00291222506047,
+                            -8.407031752153472
+                        ],
+                        [
+                            30.346086053190817,
+                            -8.238256524288218
+                        ],
+                        [
+                            30.740009731422095,
+                            -8.34000593035372
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "featurecla": "Admin-0 country",
+                "scalerank": 1,
+                "labelrank": 3,
+                "sovereignt": "Uganda",
+                "sov_a3": "UGA",
+                "adm0_dif": 0,
+                "level": 2,
+                "type": "Sovereign country",
+                "tlc": "1",
+                "admin": "Uganda",
+                "adm0_a3": "UGA",
+                "geou_dif": 0,
+                "geounit": "Uganda",
+                "gu_a3": "UGA",
+                "su_dif": 0,
+                "subunit": "Uganda",
+                "su_a3": "UGA",
+                "brk_diff": 0,
+                "name": "Uganda",
+                "name_long": "Uganda",
+                "brk_a3": "UGA",
+                "brk_name": "Uganda",
+                "brk_group": null,
+                "abbrev": "Uga.",
+                "postal": "UG",
+                "formal_en": "Republic of Uganda",
+                "formal_fr": null,
+                "name_ciawf": "Uganda",
+                "note_adm0": null,
+                "note_brk": null,
+                "name_sort": "Uganda",
+                "name_alt": null,
+                "mapcolor7": 6,
+                "mapcolor8": 3,
+                "mapcolor9": 6,
+                "mapcolor13": 4,
+                "pop_est": 44269594,
+                "pop_rank": 15,
+                "pop_year": 2019,
+                "gdp_md": 35165,
+                "gdp_year": 2019,
+                "economy": "7. Least developed region",
+                "income_grp": "5. Low income",
+                "fips_10": "UG",
+                "iso_a2": "UG",
+                "iso_a2_eh": "UG",
+                "iso_a3": "UGA",
+                "iso_a3_eh": "UGA",
+                "iso_n3": "800",
+                "iso_n3_eh": "800",
+                "un_a3": "800",
+                "wb_a2": "UG",
+                "wb_a3": "UGA",
+                "woe_id": 23424974,
+                "woe_id_eh": 23424974,
+                "woe_note": "Exact WOE match as country",
+                "adm0_iso": "UGA",
+                "adm0_diff": null,
+                "adm0_tlc": "UGA",
+                "adm0_a3_us": "UGA",
+                "adm0_a3_fr": "UGA",
+                "adm0_a3_ru": "UGA",
+                "adm0_a3_es": "UGA",
+                "adm0_a3_cn": "UGA",
+                "adm0_a3_tw": "UGA",
+                "adm0_a3_in": "UGA",
+                "adm0_a3_np": "UGA",
+                "adm0_a3_pk": "UGA",
+                "adm0_a3_de": "UGA",
+                "adm0_a3_gb": "UGA",
+                "adm0_a3_br": "UGA",
+                "adm0_a3_il": "UGA",
+                "adm0_a3_ps": "UGA",
+                "adm0_a3_sa": "UGA",
+                "adm0_a3_eg": "UGA",
+                "adm0_a3_ma": "UGA",
+                "adm0_a3_pt": "UGA",
+                "adm0_a3_ar": "UGA",
+                "adm0_a3_jp": "UGA",
+                "adm0_a3_ko": "UGA",
+                "adm0_a3_vn": "UGA",
+                "adm0_a3_tr": "UGA",
+                "adm0_a3_id": "UGA",
+                "adm0_a3_pl": "UGA",
+                "adm0_a3_gr": "UGA",
+                "adm0_a3_it": "UGA",
+                "adm0_a3_nl": "UGA",
+                "adm0_a3_se": "UGA",
+                "adm0_a3_bd": "UGA",
+                "adm0_a3_ua": "UGA",
+                "adm0_a3_un": -99,
+                "adm0_a3_wb": -99,
+                "continent": "Africa",
+                "region_un": "Africa",
+                "subregion": "Eastern Africa",
+                "region_wb": "Sub-Saharan Africa",
+                "name_len": 6,
+                "long_len": 6,
+                "abbrev_len": 4,
+                "tiny": -99,
+                "homepart": 1,
+                "min_zoom": 0,
+                "min_label": 3,
+                "max_label": 8,
+                "label_x": 32.948555,
+                "label_y": 1.972589,
+                "ne_id": 1159321343,
+                "wikidataid": "Q1036",
+                "name_ar": "أوغندا",
+                "name_bn": "উগান্ডা",
+                "name_de": "Uganda",
+                "name_en": "Uganda",
+                "name_es": "Uganda",
+                "name_fa": "اوگاندا",
+                "name_fr": "Ouganda",
+                "name_el": "Ουγκάντα",
+                "name_he": "אוגנדה",
+                "name_hi": "युगाण्डा",
+                "name_hu": "Uganda",
+                "name_id": "Uganda",
+                "name_it": "Uganda",
+                "name_ja": "ウガンダ",
+                "name_ko": "우간다",
+                "name_nl": "Oeganda",
+                "name_pl": "Uganda",
+                "name_pt": "Uganda",
+                "name_ru": "Уганда",
+                "name_sv": "Uganda",
+                "name_tr": "Uganda",
+                "name_uk": "Уганда",
+                "name_ur": "یوگنڈا",
+                "name_vi": "Uganda",
+                "name_zh": "乌干达",
+                "name_zht": "烏干達",
+                "fclass_iso": "Admin-0 country",
+                "tlc_diff": null,
+                "fclass_tlc": "Admin-0 country",
+                "fclass_us": null,
+                "fclass_fr": null,
+                "fclass_ru": null,
+                "fclass_es": null,
+                "fclass_cn": null,
+                "fclass_tw": null,
+                "fclass_in": null,
+                "fclass_np": null,
+                "fclass_pk": null,
+                "fclass_de": null,
+                "fclass_gb": null,
+                "fclass_br": null,
+                "fclass_il": null,
+                "fclass_ps": null,
+                "fclass_sa": null,
+                "fclass_eg": null,
+                "fclass_ma": null,
+                "fclass_pt": null,
+                "fclass_ar": null,
+                "fclass_jp": null,
+                "fclass_ko": null,
+                "fclass_vn": null,
+                "fclass_tr": null,
+                "fclass_id": null,
+                "fclass_pl": null,
+                "fclass_gr": null,
+                "fclass_it": null,
+                "fclass_nl": null,
+                "fclass_se": null,
+                "fclass_bd": null,
+                "fclass_ua": null,
+                "filename": "UGA.geojson"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.90371119710453,
+                            -0.95
+                        ],
+                        [
+                            31.86617,
+                            -1.02736
+                        ],
+                        [
+                            30.769860000000108,
+                            -1.01455
+                        ],
+                        [
+                            30.419104852019245,
+                            -1.134659112150416
+                        ],
+                        [
+                            29.821518588996014,
+                            -1.443322442229785
+                        ],
+                        [
+                            29.579466180140884,
+                            -1.341313164885626
+                        ],
+                        [
+                            29.58783776217217,
+                            -0.587405694179381
+                        ],
+                        [
+                            29.819503208136638,
+                            -0.205310153813372
+                        ],
+                        [
+                            29.875778842902434,
+                            0.597379868976361
+                        ],
+                        [
+                            30.086153598762706,
+                            1.062312730306289
+                        ],
+                        [
+                            30.46850752129029,
+                            1.583805446779706
+                        ],
+                        [
+                            30.85267011894806,
+                            1.849396470543809
+                        ],
+                        [
+                            31.174149204235817,
+                            2.204465236821264
+                        ],
+                        [
+                            30.77334679538004,
+                            2.339883327642127
+                        ],
+                        [
+                            30.83385989759381,
+                            3.509165961110341
+                        ],
+                        [
+                            30.833852421715427,
+                            3.509171604222463
+                        ],
+                        [
+                            31.24556,
+                            3.7819
+                        ],
+                        [
+                            31.88145,
+                            3.55827
+                        ],
+                        [
+                            32.68642,
+                            3.79232
+                        ],
+                        [
+                            33.3900000000001,
+                            3.79
+                        ],
+                        [
+                            34.005,
+                            4.249884947362048
+                        ],
+                        [
+                            34.47913,
+                            3.5556
+                        ],
+                        [
+                            34.59607,
+                            3.053740000000118
+                        ],
+                        [
+                            35.03599,
+                            1.90584
+                        ],
+                        [
+                            34.6721,
+                            1.17694
+                        ],
+                        [
+                            34.18,
+                            0.515
+                        ],
+                        [
+                            33.893568969666944,
+                            0.109813537861896
+                        ],
+                        [
+                            33.90371119710453,
+                            -0.95
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "featurecla": "Admin-0 country",
+                "scalerank": 1,
+                "labelrank": 3,
+                "sovereignt": "United Republic of Tanzania",
+                "sov_a3": "TZA",
+                "adm0_dif": 0,
+                "level": 2,
+                "type": "Sovereign country",
+                "tlc": "1",
+                "admin": "United Republic of Tanzania",
+                "adm0_a3": "TZA",
+                "geou_dif": 0,
+                "geounit": "Tanzania",
+                "gu_a3": "TZA",
+                "su_dif": 0,
+                "subunit": "Tanzania",
+                "su_a3": "TZA",
+                "brk_diff": 0,
+                "name": "Tanzania",
+                "name_long": "Tanzania",
+                "brk_a3": "TZA",
+                "brk_name": "Tanzania",
+                "brk_group": null,
+                "abbrev": "Tanz.",
+                "postal": "TZ",
+                "formal_en": "United Republic of Tanzania",
+                "formal_fr": null,
+                "name_ciawf": "Tanzania",
+                "note_adm0": null,
+                "note_brk": null,
+                "name_sort": "Tanzania",
+                "name_alt": null,
+                "mapcolor7": 3,
+                "mapcolor8": 6,
+                "mapcolor9": 2,
+                "mapcolor13": 2,
+                "pop_est": 58005463,
+                "pop_rank": 16,
+                "pop_year": 2019,
+                "gdp_md": 63177,
+                "gdp_year": 2019,
+                "economy": "7. Least developed region",
+                "income_grp": "5. Low income",
+                "fips_10": "TZ",
+                "iso_a2": "TZ",
+                "iso_a2_eh": "TZ",
+                "iso_a3": "TZA",
+                "iso_a3_eh": "TZA",
+                "iso_n3": "834",
+                "iso_n3_eh": "834",
+                "un_a3": "834",
+                "wb_a2": "TZ",
+                "wb_a3": "TZA",
+                "woe_id": 23424973,
+                "woe_id_eh": 23424973,
+                "woe_note": "Exact WOE match as country",
+                "adm0_iso": "TZA",
+                "adm0_diff": null,
+                "adm0_tlc": "TZA",
+                "adm0_a3_us": "TZA",
+                "adm0_a3_fr": "TZA",
+                "adm0_a3_ru": "TZA",
+                "adm0_a3_es": "TZA",
+                "adm0_a3_cn": "TZA",
+                "adm0_a3_tw": "TZA",
+                "adm0_a3_in": "TZA",
+                "adm0_a3_np": "TZA",
+                "adm0_a3_pk": "TZA",
+                "adm0_a3_de": "TZA",
+                "adm0_a3_gb": "TZA",
+                "adm0_a3_br": "TZA",
+                "adm0_a3_il": "TZA",
+                "adm0_a3_ps": "TZA",
+                "adm0_a3_sa": "TZA",
+                "adm0_a3_eg": "TZA",
+                "adm0_a3_ma": "TZA",
+                "adm0_a3_pt": "TZA",
+                "adm0_a3_ar": "TZA",
+                "adm0_a3_jp": "TZA",
+                "adm0_a3_ko": "TZA",
+                "adm0_a3_vn": "TZA",
+                "adm0_a3_tr": "TZA",
+                "adm0_a3_id": "TZA",
+                "adm0_a3_pl": "TZA",
+                "adm0_a3_gr": "TZA",
+                "adm0_a3_it": "TZA",
+                "adm0_a3_nl": "TZA",
+                "adm0_a3_se": "TZA",
+                "adm0_a3_bd": "TZA",
+                "adm0_a3_ua": "TZA",
+                "adm0_a3_un": -99,
+                "adm0_a3_wb": -99,
+                "continent": "Africa",
+                "region_un": "Africa",
+                "subregion": "Eastern Africa",
+                "region_wb": "Sub-Saharan Africa",
+                "name_len": 8,
+                "long_len": 8,
+                "abbrev_len": 5,
+                "tiny": -99,
+                "homepart": 1,
+                "min_zoom": 0,
+                "min_label": 3,
+                "max_label": 8,
+                "label_x": 34.959183,
+                "label_y": -6.051866,
+                "ne_id": 1159321337,
+                "wikidataid": "Q924",
+                "name_ar": "تنزانيا",
+                "name_bn": "তানজানিয়া",
+                "name_de": "Tansania",
+                "name_en": "Tanzania",
+                "name_es": "Tanzania",
+                "name_fa": "تانزانیا",
+                "name_fr": "Tanzanie",
+                "name_el": "Τανζανία",
+                "name_he": "טנזניה",
+                "name_hi": "तंज़ानिया",
+                "name_hu": "Tanzánia",
+                "name_id": "Tanzania",
+                "name_it": "Tanzania",
+                "name_ja": "タンザニア",
+                "name_ko": "탄자니아",
+                "name_nl": "Tanzania",
+                "name_pl": "Tanzania",
+                "name_pt": "Tanzânia",
+                "name_ru": "Танзания",
+                "name_sv": "Tanzania",
+                "name_tr": "Tanzanya",
+                "name_uk": "Танзанія",
+                "name_ur": "تنزانیہ",
+                "name_vi": "Tanzania",
+                "name_zh": "坦桑尼亚",
+                "name_zht": "坦尚尼亞",
+                "fclass_iso": "Admin-0 country",
+                "tlc_diff": null,
+                "fclass_tlc": "Admin-0 country",
+                "fclass_us": null,
+                "fclass_fr": null,
+                "fclass_ru": null,
+                "fclass_es": null,
+                "fclass_cn": null,
+                "fclass_tw": null,
+                "fclass_in": null,
+                "fclass_np": null,
+                "fclass_pk": null,
+                "fclass_de": null,
+                "fclass_gb": null,
+                "fclass_br": null,
+                "fclass_il": null,
+                "fclass_ps": null,
+                "fclass_sa": null,
+                "fclass_eg": null,
+                "fclass_ma": null,
+                "fclass_pt": null,
+                "fclass_ar": null,
+                "fclass_jp": null,
+                "fclass_ko": null,
+                "fclass_vn": null,
+                "fclass_tr": null,
+                "fclass_id": null,
+                "fclass_pl": null,
+                "fclass_gr": null,
+                "fclass_it": null,
+                "fclass_nl": null,
+                "fclass_se": null,
+                "fclass_bd": null,
+                "fclass_ua": null,
+                "filename": "TZA.geojson"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            33.90371119710453,
+                            -0.95
+                        ],
+                        [
+                            34.07262,
+                            -1.05982
+                        ],
+                        [
+                            37.69869,
+                            -3.09699
+                        ],
+                        [
+                            37.7669,
+                            -3.67712
+                        ],
+                        [
+                            39.20222,
+                            -4.67677
+                        ],
+                        [
+                            38.74054,
+                            -5.90895
+                        ],
+                        [
+                            38.79977,
+                            -6.47566
+                        ],
+                        [
+                            39.44,
+                            -6.839999999999861
+                        ],
+                        [
+                            39.47000000000014,
+                            -7.1
+                        ],
+                        [
+                            39.19469,
+                            -7.7039
+                        ],
+                        [
+                            39.25203,
+                            -8.00781
+                        ],
+                        [
+                            39.18652,
+                            -8.48551
+                        ],
+                        [
+                            39.53574,
+                            -9.112369999999885
+                        ],
+                        [
+                            39.9496,
+                            -10.0984
+                        ],
+                        [
+                            40.316586229110854,
+                            -10.317097752817492
+                        ],
+                        [
+                            40.31659,
+                            -10.317099999999868
+                        ],
+                        [
+                            39.521,
+                            -10.89688
+                        ],
+                        [
+                            38.42755659358775,
+                            -11.285202325081656
+                        ],
+                        [
+                            37.82764,
+                            -11.26879
+                        ],
+                        [
+                            37.47129,
+                            -11.56876
+                        ],
+                        [
+                            36.775150994622805,
+                            -11.594537448780805
+                        ],
+                        [
+                            36.51408165868426,
+                            -11.720938002166735
+                        ],
+                        [
+                            35.31239790216904,
+                            -11.439146416879147
+                        ],
+                        [
+                            34.55998904799935,
+                            -11.520020033415925
+                        ],
+                        [
+                            34.28,
+                            -10.16
+                        ],
+                        [
+                            33.940837724096525,
+                            -9.693673841980285
+                        ],
+                        [
+                            33.73972,
+                            -9.41715
+                        ],
+                        [
+                            32.75937544122132,
+                            -9.23059905358906
+                        ],
+                        [
+                            32.19186486179194,
+                            -8.930358981973257
+                        ],
+                        [
+                            31.556348097466497,
+                            -8.762048841998642
+                        ],
+                        [
+                            31.15775133695005,
+                            -8.594578747317366
+                        ],
+                        [
+                            30.740009731422095,
+                            -8.34000593035372
+                        ],
+                        [
+                            30.74001549655179,
+                            -8.340007419470915
+                        ],
+                        [
+                            30.199996779101696,
+                            -7.079980970898163
+                        ],
+                        [
+                            29.620032179490014,
+                            -6.520015150583426
+                        ],
+                        [
+                            29.419992710088167,
+                            -5.939998874539434
+                        ],
+                        [
+                            29.519986606572928,
+                            -5.419978936386315
+                        ],
+                        [
+                            29.339997592900346,
+                            -4.499983412294092
+                        ],
+                        [
+                            29.753512404099865,
+                            -4.452389418153302
+                        ],
+                        [
+                            30.11632,
+                            -4.09012
+                        ],
+                        [
+                            30.50554,
+                            -3.56858
+                        ],
+                        [
+                            30.75224,
+                            -3.35931
+                        ],
+                        [
+                            30.74301,
+                            -3.03431
+                        ],
+                        [
+                            30.52766,
+                            -2.80762
+                        ],
+                        [
+                            30.469673645761223,
+                            -2.41385475710134
+                        ],
+                        [
+                            30.46967,
+                            -2.41383
+                        ],
+                        [
+                            30.75830895358311,
+                            -2.287250257988369
+                        ],
+                        [
+                            30.816134881317712,
+                            -1.698914076345389
+                        ],
+                        [
+                            30.419104852019245,
+                            -1.134659112150416
+                        ],
+                        [
+                            30.769860000000108,
+                            -1.01455
+                        ],
+                        [
+                            31.86617,
+                            -1.02736
+                        ],
+                        [
+                            33.90371119710453,
+                            -0.95
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "featurecla": "Admin-0 country",
+                "scalerank": 1,
+                "labelrank": 3,
+                "sovereignt": "Morocco",
+                "sov_a3": "MAR",
+                "adm0_dif": 0,
+                "level": 2,
+                "type": "Sovereign country",
+                "tlc": "1",
+                "admin": "Morocco",
+                "adm0_a3": "MAR",
+                "geou_dif": 0,
+                "geounit": "Morocco",
+                "gu_a3": "MAR",
+                "su_dif": 0,
+                "subunit": "Morocco",
+                "su_a3": "MAR",
+                "brk_diff": 0,
+                "name": "Morocco",
+                "name_long": "Morocco",
+                "brk_a3": "MAR",
+                "brk_name": "Morocco",
+                "brk_group": null,
+                "abbrev": "Mor.",
+                "postal": "MA",
+                "formal_en": "Kingdom of Morocco",
+                "formal_fr": null,
+                "name_ciawf": "Morocco",
+                "note_adm0": null,
+                "note_brk": null,
+                "name_sort": "Morocco",
+                "name_alt": null,
+                "mapcolor7": 2,
+                "mapcolor8": 2,
+                "mapcolor9": 3,
+                "mapcolor13": 9,
+                "pop_est": 36471769,
+                "pop_rank": 15,
+                "pop_year": 2019,
+                "gdp_md": 119700,
+                "gdp_year": 2019,
+                "economy": "6. Developing region",
+                "income_grp": "4. Lower middle income",
+                "fips_10": "MO",
+                "iso_a2": "MA",
+                "iso_a2_eh": "MA",
+                "iso_a3": "MAR",
+                "iso_a3_eh": "MAR",
+                "iso_n3": "504",
+                "iso_n3_eh": "504",
+                "un_a3": "504",
+                "wb_a2": "MA",
+                "wb_a3": "MAR",
+                "woe_id": 23424893,
+                "woe_id_eh": 23424893,
+                "woe_note": "Exact WOE match as country",
+                "adm0_iso": "MAR",
+                "adm0_diff": null,
+                "adm0_tlc": "MAR",
+                "adm0_a3_us": "MAR",
+                "adm0_a3_fr": "MAR",
+                "adm0_a3_ru": "MAR",
+                "adm0_a3_es": "MAR",
+                "adm0_a3_cn": "MAR",
+                "adm0_a3_tw": "MAR",
+                "adm0_a3_in": "MAR",
+                "adm0_a3_np": "MAR",
+                "adm0_a3_pk": "MAR",
+                "adm0_a3_de": "MAR",
+                "adm0_a3_gb": "MAR",
+                "adm0_a3_br": "MAR",
+                "adm0_a3_il": "MAR",
+                "adm0_a3_ps": "MAR",
+                "adm0_a3_sa": "MAR",
+                "adm0_a3_eg": "MAR",
+                "adm0_a3_ma": "MAR",
+                "adm0_a3_pt": "MAR",
+                "adm0_a3_ar": "MAR",
+                "adm0_a3_jp": "MAR",
+                "adm0_a3_ko": "MAR",
+                "adm0_a3_vn": "MAR",
+                "adm0_a3_tr": "MAR",
+                "adm0_a3_id": "MAR",
+                "adm0_a3_pl": "MAR",
+                "adm0_a3_gr": "MAR",
+                "adm0_a3_it": "MAR",
+                "adm0_a3_nl": "MAR",
+                "adm0_a3_se": "MAR",
+                "adm0_a3_bd": "MAR",
+                "adm0_a3_ua": "MAR",
+                "adm0_a3_un": -99,
+                "adm0_a3_wb": -99,
+                "continent": "Africa",
+                "region_un": "Africa",
+                "subregion": "Northern Africa",
+                "region_wb": "Middle East & North Africa",
+                "name_len": 7,
+                "long_len": 7,
+                "abbrev_len": 4,
+                "tiny": -99,
+                "homepart": 1,
+                "min_zoom": 0,
+                "min_label": 2.7,
+                "max_label": 8,
+                "label_x": -7.187296,
+                "label_y": 31.650723,
+                "ne_id": 1159321035,
+                "wikidataid": "Q1028",
+                "name_ar": "المغرب",
+                "name_bn": "মরক্কো",
+                "name_de": "Marokko",
+                "name_en": "Morocco",
+                "name_es": "Marruecos",
+                "name_fa": "مراکش",
+                "name_fr": "Maroc",
+                "name_el": "Μαρόκο",
+                "name_he": "מרוקו",
+                "name_hi": "मोरक्को",
+                "name_hu": "Marokkó",
+                "name_id": "Maroko",
+                "name_it": "Marocco",
+                "name_ja": "モロッコ",
+                "name_ko": "모로코",
+                "name_nl": "Marokko",
+                "name_pl": "Maroko",
+                "name_pt": "Marrocos",
+                "name_ru": "Марокко",
+                "name_sv": "Marocko",
+                "name_tr": "Fas",
+                "name_uk": "Марокко",
+                "name_ur": "مراکش",
+                "name_vi": "Maroc",
+                "name_zh": "摩洛哥",
+                "name_zht": "摩洛哥",
+                "fclass_iso": "Admin-0 country",
+                "tlc_diff": null,
+                "fclass_tlc": "Admin-0 country",
+                "fclass_us": null,
+                "fclass_fr": null,
+                "fclass_ru": null,
+                "fclass_es": null,
+                "fclass_cn": null,
+                "fclass_tw": null,
+                "fclass_in": null,
+                "fclass_np": null,
+                "fclass_pk": null,
+                "fclass_de": null,
+                "fclass_gb": null,
+                "fclass_br": null,
+                "fclass_il": null,
+                "fclass_ps": null,
+                "fclass_sa": null,
+                "fclass_eg": null,
+                "fclass_ma": null,
+                "fclass_pt": null,
+                "fclass_ar": null,
+                "fclass_jp": null,
+                "fclass_ko": null,
+                "fclass_vn": null,
+                "fclass_tr": null,
+                "fclass_id": null,
+                "fclass_pl": null,
+                "fclass_gr": null,
+                "fclass_it": null,
+                "fclass_nl": null,
+                "fclass_se": null,
+                "fclass_bd": null,
+                "fclass_ua": null,
+                "filename": "MAR.geojson"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -2.169913702798624,
+                            35.16839630791668
+                        ],
+                        [
+                            -1.792985805661715,
+                            34.527918606091305
+                        ],
+                        [
+                            -1.733454555661467,
+                            33.91971283623212
+                        ],
+                        [
+                            -1.388049282222596,
+                            32.86401500094138
+                        ],
+                        [
+                            -1.124551153966308,
+                            32.65152151135713
+                        ],
+                        [
+                            -1.30789913573787,
+                            32.2628889023061
+                        ],
+                        [
+                            -2.616604783529567,
+                            32.09434621838619
+                        ],
+                        [
+                            -3.068980271812648,
+                            31.724497992473218
+                        ],
+                        [
+                            -3.647497931320146,
+                            31.637294012980675
+                        ],
+                        [
+                            -3.690441046554724,
+                            30.896951605751156
+                        ],
+                        [
+                            -4.859646165374471,
+                            30.501187649043846
+                        ],
+                        [
+                            -5.242129278982787,
+                            30.00044302013559
+                        ],
+                        [
+                            -6.060632290053774,
+                            29.731699734001694
+                        ],
+                        [
+                            -7.059227667661958,
+                            29.5792284205246
+                        ],
+                        [
+                            -8.674116176782974,
+                            28.84128896739658
+                        ],
+                        [
+                            -8.665589565454809,
+                            27.656425889592356
+                        ],
+                        [
+                            -8.817828334986672,
+                            27.656425889592356
+                        ],
+                        [
+                            -8.794883999049077,
+                            27.120696316022507
+                        ],
+                        [
+                            -9.41303748212448,
+                            27.088476060488574
+                        ],
+                        [
+                            -9.735343390328879,
+                            26.860944729107405
+                        ],
+                        [
+                            -10.189424200877582,
+                            26.860944729107405
+                        ],
+                        [
+                            -10.551262579785273,
+                            26.990807603456886
+                        ],
+                        [
+                            -11.392554897497007,
+                            26.883423977154393
+                        ],
+                        [
+                            -11.718219773800357,
+                            26.104091701760623
+                        ],
+                        [
+                            -12.03075883630163,
+                            26.030866197203068
+                        ],
+                        [
+                            -12.50096269372537,
+                            24.7701162785782
+                        ],
+                        [
+                            -13.891110398809047,
+                            23.691009019459305
+                        ],
+                        [
+                            -14.221167771857253,
+                            22.31016307218816
+                        ],
+                        [
+                            -14.630832688851072,
+                            21.860939846274903
+                        ],
+                        [
+                            -14.750954555713534,
+                            21.500600083903663
+                        ],
+                        [
+                            -17.00296179856109,
+                            21.420734157796577
+                        ],
+                        [
+                            -17.02042843267577,
+                            21.422310288981578
+                        ],
+                        [
+                            -16.973247849993243,
+                            21.885744533774982
+                        ],
+                        [
+                            -16.589136928767687,
+                            22.158234361250095
+                        ],
+                        [
+                            -16.261921759495635,
+                            22.679339504481277
+                        ],
+                        [
+                            -16.3264139469959,
+                            23.017768459560898
+                        ],
+                        [
+                            -15.982610642958036,
+                            23.723358466074046
+                        ],
+                        [
+                            -15.426003790742186,
+                            24.35913361256104
+                        ],
+                        [
+                            -15.089331834360735,
+                            24.520260728447
+                        ],
+                        [
+                            -14.824645148161665,
+                            25.103532619725343
+                        ],
+                        [
+                            -14.800925665739726,
+                            25.63626496022232
+                        ],
+                        [
+                            -14.439939947964831,
+                            26.254418443297652
+                        ],
+                        [
+                            -13.773804897506466,
+                            26.618892320252314
+                        ],
+                        [
+                            -13.13994177901435,
+                            27.640147813420526
+                        ],
+                        [
+                            -13.121613369914769,
+                            27.65414767171984
+                        ],
+                        [
+                            -12.618836635783111,
+                            28.03818553314869
+                        ],
+                        [
+                            -11.688919236690765,
+                            28.148643907172527
+                        ],
+                        [
+                            -10.900956997104402,
+                            28.83214223888092
+                        ],
+                        [
+                            -10.399592251008642,
+                            29.09858592377782
+                        ],
+                        [
+                            -9.564811163765683,
+                            29.93357371674989
+                        ],
+                        [
+                            -9.814718390329176,
+                            31.17773550060906
+                        ],
+                        [
+                            -9.434793260119363,
+                            32.038096421836485
+                        ],
+                        [
+                            -9.300692918321886,
+                            32.564679266890664
+                        ],
+                        [
+                            -8.657476365585012,
+                            33.240245266242425
+                        ],
+                        [
+                            -7.654178432638219,
+                            33.69706492770251
+                        ],
+                        [
+                            -6.912544114601417,
+                            34.110476386037476
+                        ],
+                        [
+                            -6.244342006851411,
+                            35.145865383437524
+                        ],
+                        [
+                            -5.92999426921989,
+                            35.75998810479399
+                        ],
+                        [
+                            -5.193863491222032,
+                            35.75518219659085
+                        ],
+                        [
+                            -4.591006232105144,
+                            35.330711981745594
+                        ],
+                        [
+                            -3.640056525070065,
+                            35.399855048152006
+                        ],
+                        [
+                            -2.604305792644084,
+                            35.179093329401155
+                        ],
+                        [
+                            -2.169913702798624,
+                            35.16839630791668
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "featurecla": "Admin-0 country",
+                "scalerank": 1,
+                "labelrank": 3,
+                "sovereignt": "Senegal",
+                "sov_a3": "SEN",
+                "adm0_dif": 0,
+                "level": 2,
+                "type": "Sovereign country",
+                "tlc": "1",
+                "admin": "Senegal",
+                "adm0_a3": "SEN",
+                "geou_dif": 0,
+                "geounit": "Senegal",
+                "gu_a3": "SEN",
+                "su_dif": 0,
+                "subunit": "Senegal",
+                "su_a3": "SEN",
+                "brk_diff": 0,
+                "name": "Senegal",
+                "name_long": "Senegal",
+                "brk_a3": "SEN",
+                "brk_name": "Senegal",
+                "brk_group": null,
+                "abbrev": "Sen.",
+                "postal": "SN",
+                "formal_en": "Republic of Senegal",
+                "formal_fr": null,
+                "name_ciawf": "Senegal",
+                "note_adm0": null,
+                "note_brk": null,
+                "name_sort": "Senegal",
+                "name_alt": null,
+                "mapcolor7": 2,
+                "mapcolor8": 6,
+                "mapcolor9": 5,
+                "mapcolor13": 5,
+                "pop_est": 16296364,
+                "pop_rank": 14,
+                "pop_year": 2019,
+                "gdp_md": 23578,
+                "gdp_year": 2019,
+                "economy": "7. Least developed region",
+                "income_grp": "4. Lower middle income",
+                "fips_10": "SG",
+                "iso_a2": "SN",
+                "iso_a2_eh": "SN",
+                "iso_a3": "SEN",
+                "iso_a3_eh": "SEN",
+                "iso_n3": "686",
+                "iso_n3_eh": "686",
+                "un_a3": "686",
+                "wb_a2": "SN",
+                "wb_a3": "SEN",
+                "woe_id": 23424943,
+                "woe_id_eh": 23424943,
+                "woe_note": "Exact WOE match as country",
+                "adm0_iso": "SEN",
+                "adm0_diff": null,
+                "adm0_tlc": "SEN",
+                "adm0_a3_us": "SEN",
+                "adm0_a3_fr": "SEN",
+                "adm0_a3_ru": "SEN",
+                "adm0_a3_es": "SEN",
+                "adm0_a3_cn": "SEN",
+                "adm0_a3_tw": "SEN",
+                "adm0_a3_in": "SEN",
+                "adm0_a3_np": "SEN",
+                "adm0_a3_pk": "SEN",
+                "adm0_a3_de": "SEN",
+                "adm0_a3_gb": "SEN",
+                "adm0_a3_br": "SEN",
+                "adm0_a3_il": "SEN",
+                "adm0_a3_ps": "SEN",
+                "adm0_a3_sa": "SEN",
+                "adm0_a3_eg": "SEN",
+                "adm0_a3_ma": "SEN",
+                "adm0_a3_pt": "SEN",
+                "adm0_a3_ar": "SEN",
+                "adm0_a3_jp": "SEN",
+                "adm0_a3_ko": "SEN",
+                "adm0_a3_vn": "SEN",
+                "adm0_a3_tr": "SEN",
+                "adm0_a3_id": "SEN",
+                "adm0_a3_pl": "SEN",
+                "adm0_a3_gr": "SEN",
+                "adm0_a3_it": "SEN",
+                "adm0_a3_nl": "SEN",
+                "adm0_a3_se": "SEN",
+                "adm0_a3_bd": "SEN",
+                "adm0_a3_ua": "SEN",
+                "adm0_a3_un": -99,
+                "adm0_a3_wb": -99,
+                "continent": "Africa",
+                "region_un": "Africa",
+                "subregion": "Western Africa",
+                "region_wb": "Sub-Saharan Africa",
+                "name_len": 7,
+                "long_len": 7,
+                "abbrev_len": 4,
+                "tiny": -99,
+                "homepart": 1,
+                "min_zoom": 0,
+                "min_label": 2.7,
+                "max_label": 8,
+                "label_x": -14.778586,
+                "label_y": 15.138125,
+                "ne_id": 1159321243,
+                "wikidataid": "Q1041",
+                "name_ar": "السنغال",
+                "name_bn": "সেনেগাল",
+                "name_de": "Senegal",
+                "name_en": "Senegal",
+                "name_es": "Senegal",
+                "name_fa": "سنگال",
+                "name_fr": "Sénégal",
+                "name_el": "Σενεγάλη",
+                "name_he": "סנגל",
+                "name_hi": "सेनेगल",
+                "name_hu": "Szenegál",
+                "name_id": "Senegal",
+                "name_it": "Senegal",
+                "name_ja": "セネガル",
+                "name_ko": "세네갈",
+                "name_nl": "Senegal",
+                "name_pl": "Senegal",
+                "name_pt": "Senegal",
+                "name_ru": "Сенегал",
+                "name_sv": "Senegal",
+                "name_tr": "Senegal",
+                "name_uk": "Сенегал",
+                "name_ur": "سینیگال",
+                "name_vi": "Sénégal",
+                "name_zh": "塞内加尔",
+                "name_zht": "塞內加爾",
+                "fclass_iso": "Admin-0 country",
+                "tlc_diff": null,
+                "fclass_tlc": "Admin-0 country",
+                "fclass_us": null,
+                "fclass_fr": null,
+                "fclass_ru": null,
+                "fclass_es": null,
+                "fclass_cn": null,
+                "fclass_tw": null,
+                "fclass_in": null,
+                "fclass_np": null,
+                "fclass_pk": null,
+                "fclass_de": null,
+                "fclass_gb": null,
+                "fclass_br": null,
+                "fclass_il": null,
+                "fclass_ps": null,
+                "fclass_sa": null,
+                "fclass_eg": null,
+                "fclass_ma": null,
+                "fclass_pt": null,
+                "fclass_ar": null,
+                "fclass_jp": null,
+                "fclass_ko": null,
+                "fclass_vn": null,
+                "fclass_tr": null,
+                "fclass_id": null,
+                "fclass_pl": null,
+                "fclass_gr": null,
+                "fclass_it": null,
+                "fclass_nl": null,
+                "fclass_se": null,
+                "fclass_bd": null,
+                "fclass_ua": null,
+                "filename": "SEN.geojson"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -16.71372880702347,
+                            13.594958604379855
+                        ],
+                        [
+                            -17.126106736712615,
+                            14.373515733289224
+                        ],
+                        [
+                            -17.62504269049066,
+                            14.729540513564073
+                        ],
+                        [
+                            -17.18517289882223,
+                            14.919477240452862
+                        ],
+                        [
+                            -16.700706346085923,
+                            15.621527411354108
+                        ],
+                        [
+                            -16.463098110407884,
+                            16.13503611903846
+                        ],
+                        [
+                            -16.12069007004193,
+                            16.455662543193384
+                        ],
+                        [
+                            -15.623666144258692,
+                            16.369337063049812
+                        ],
+                        [
+                            -15.135737270558819,
+                            16.587282416240782
+                        ],
+                        [
+                            -14.577347581428981,
+                            16.59826365810281
+                        ],
+                        [
+                            -14.099521450242179,
+                            16.304302273010492
+                        ],
+                        [
+                            -13.435737677453062,
+                            16.03938304286619
+                        ],
+                        [
+                            -12.830658331747516,
+                            15.303691514542948
+                        ],
+                        [
+                            -12.170750291380301,
+                            14.616834214735505
+                        ],
+                        [
+                            -12.12488745772126,
+                            13.994727484589788
+                        ],
+                        [
+                            -11.927716030311615,
+                            13.422075100147396
+                        ],
+                        [
+                            -11.55339779300543,
+                            13.141213690641067
+                        ],
+                        [
+                            -11.467899135778524,
+                            12.754518947800975
+                        ],
+                        [
+                            -11.51394283695059,
+                            12.442987575729418
+                        ],
+                        [
+                            -11.658300950557932,
+                            12.386582749882836
+                        ],
+                        [
+                            -12.203564825885634,
+                            12.465647691289405
+                        ],
+                        [
+                            -12.27859900557344,
+                            12.354440008997287
+                        ],
+                        [
+                            -12.499050665730564,
+                            12.332089952031057
+                        ],
+                        [
+                            -13.217818162478238,
+                            12.575873521367967
+                        ],
+                        [
+                            -13.700476040084325,
+                            12.586182969610194
+                        ],
+                        [
+                            -15.54847693527401,
+                            12.628170070847347
+                        ],
+                        [
+                            -15.816574266004254,
+                            12.515567124883347
+                        ],
+                        [
+                            -16.147716844130585,
+                            12.547761542201187
+                        ],
+                        [
+                            -16.677451951554573,
+                            12.384851589401052
+                        ],
+                        [
+                            -16.841524624081273,
+                            13.15139394780256
+                        ],
+                        [
+                            -15.931295945692211,
+                            13.130284125211332
+                        ],
+                        [
+                            -15.691000535534995,
+                            13.270353094938457
+                        ],
+                        [
+                            -15.511812506562933,
+                            13.278569647672867
+                        ],
+                        [
+                            -15.141163295949468,
+                            13.509511623585238
+                        ],
+                        [
+                            -14.712197231494628,
+                            13.298206691943777
+                        ],
+                        [
+                            -14.277701788784555,
+                            13.280585028532244
+                        ],
+                        [
+                            -13.844963344772408,
+                            13.505041612192002
+                        ],
+                        [
+                            -14.046992356817482,
+                            13.79406789800045
+                        ],
+                        [
+                            -14.376713833055788,
+                            13.625680243377374
+                        ],
+                        [
+                            -14.687030808968487,
+                            13.630356960499784
+                        ],
+                        [
+                            -15.08173539881382,
+                            13.876491807505985
+                        ],
+                        [
+                            -15.39877031092446,
+                            13.86036876063092
+                        ],
+                        [
+                            -15.624596320039942,
+                            13.62358734786956
+                        ],
+                        [
+                            -16.71372880702347,
+                            13.594958604379855
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "featurecla": "Admin-0 country",
+                "scalerank": 1,
+                "labelrank": 6,
+                "sovereignt": "Togo",
+                "sov_a3": "TGO",
+                "adm0_dif": 0,
+                "level": 2,
+                "type": "Sovereign country",
+                "tlc": "1",
+                "admin": "Togo",
+                "adm0_a3": "TGO",
+                "geou_dif": 0,
+                "geounit": "Togo",
+                "gu_a3": "TGO",
+                "su_dif": 0,
+                "subunit": "Togo",
+                "su_a3": "TGO",
+                "brk_diff": 0,
+                "name": "Togo",
+                "name_long": "Togo",
+                "brk_a3": "TGO",
+                "brk_name": "Togo",
+                "brk_group": null,
+                "abbrev": "Togo",
+                "postal": "TG",
+                "formal_en": "Togolese Republic",
+                "formal_fr": "République Togolaise",
+                "name_ciawf": "Togo",
+                "note_adm0": null,
+                "note_brk": null,
+                "name_sort": "Togo",
+                "name_alt": null,
+                "mapcolor7": 3,
+                "mapcolor8": 1,
+                "mapcolor9": 3,
+                "mapcolor13": 5,
+                "pop_est": 8082366,
+                "pop_rank": 13,
+                "pop_year": 2019,
+                "gdp_md": 5490,
+                "gdp_year": 2019,
+                "economy": "7. Least developed region",
+                "income_grp": "5. Low income",
+                "fips_10": "TO",
+                "iso_a2": "TG",
+                "iso_a2_eh": "TG",
+                "iso_a3": "TGO",
+                "iso_a3_eh": "TGO",
+                "iso_n3": "768",
+                "iso_n3_eh": "768",
+                "un_a3": "768",
+                "wb_a2": "TG",
+                "wb_a3": "TGO",
+                "woe_id": 23424965,
+                "woe_id_eh": 23424965,
+                "woe_note": "Exact WOE match as country",
+                "adm0_iso": "TGO",
+                "adm0_diff": null,
+                "adm0_tlc": "TGO",
+                "adm0_a3_us": "TGO",
+                "adm0_a3_fr": "TGO",
+                "adm0_a3_ru": "TGO",
+                "adm0_a3_es": "TGO",
+                "adm0_a3_cn": "TGO",
+                "adm0_a3_tw": "TGO",
+                "adm0_a3_in": "TGO",
+                "adm0_a3_np": "TGO",
+                "adm0_a3_pk": "TGO",
+                "adm0_a3_de": "TGO",
+                "adm0_a3_gb": "TGO",
+                "adm0_a3_br": "TGO",
+                "adm0_a3_il": "TGO",
+                "adm0_a3_ps": "TGO",
+                "adm0_a3_sa": "TGO",
+                "adm0_a3_eg": "TGO",
+                "adm0_a3_ma": "TGO",
+                "adm0_a3_pt": "TGO",
+                "adm0_a3_ar": "TGO",
+                "adm0_a3_jp": "TGO",
+                "adm0_a3_ko": "TGO",
+                "adm0_a3_vn": "TGO",
+                "adm0_a3_tr": "TGO",
+                "adm0_a3_id": "TGO",
+                "adm0_a3_pl": "TGO",
+                "adm0_a3_gr": "TGO",
+                "adm0_a3_it": "TGO",
+                "adm0_a3_nl": "TGO",
+                "adm0_a3_se": "TGO",
+                "adm0_a3_bd": "TGO",
+                "adm0_a3_ua": "TGO",
+                "adm0_a3_un": -99,
+                "adm0_a3_wb": -99,
+                "continent": "Africa",
+                "region_un": "Africa",
+                "subregion": "Western Africa",
+                "region_wb": "Sub-Saharan Africa",
+                "name_len": 4,
+                "long_len": 4,
+                "abbrev_len": 4,
+                "tiny": -99,
+                "homepart": 1,
+                "min_zoom": 0,
+                "min_label": 5,
+                "max_label": 10,
+                "label_x": 1.058113,
+                "label_y": 8.80722,
+                "ne_id": 1159321303,
+                "wikidataid": "Q945",
+                "name_ar": "توغو",
+                "name_bn": "টোগো",
+                "name_de": "Togo",
+                "name_en": "Togo",
+                "name_es": "Togo",
+                "name_fa": "توگو",
+                "name_fr": "Togo",
+                "name_el": "Τόγκο",
+                "name_he": "טוגו",
+                "name_hi": "टोगो",
+                "name_hu": "Togo",
+                "name_id": "Togo",
+                "name_it": "Togo",
+                "name_ja": "トーゴ",
+                "name_ko": "토고",
+                "name_nl": "Togo",
+                "name_pl": "Togo",
+                "name_pt": "Togo",
+                "name_ru": "Того",
+                "name_sv": "Togo",
+                "name_tr": "Togo",
+                "name_uk": "Того",
+                "name_ur": "ٹوگو",
+                "name_vi": "Togo",
+                "name_zh": "多哥",
+                "name_zht": "多哥",
+                "fclass_iso": "Admin-0 country",
+                "tlc_diff": null,
+                "fclass_tlc": "Admin-0 country",
+                "fclass_us": null,
+                "fclass_fr": null,
+                "fclass_ru": null,
+                "fclass_es": null,
+                "fclass_cn": null,
+                "fclass_tw": null,
+                "fclass_in": null,
+                "fclass_np": null,
+                "fclass_pk": null,
+                "fclass_de": null,
+                "fclass_gb": null,
+                "fclass_br": null,
+                "fclass_il": null,
+                "fclass_ps": null,
+                "fclass_sa": null,
+                "fclass_eg": null,
+                "fclass_ma": null,
+                "fclass_pt": null,
+                "fclass_ar": null,
+                "fclass_jp": null,
+                "fclass_ko": null,
+                "fclass_vn": null,
+                "fclass_tr": null,
+                "fclass_id": null,
+                "fclass_pl": null,
+                "fclass_gr": null,
+                "fclass_it": null,
+                "fclass_nl": null,
+                "fclass_se": null,
+                "fclass_bd": null,
+                "fclass_ua": null,
+                "filename": "TGO.geojson"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.899563022474069,
+                            10.99733938236426
+                        ],
+                        [
+                            0.772335646171484,
+                            10.470808213742359
+                        ],
+                        [
+                            1.077795037448738,
+                            10.175606594275024
+                        ],
+                        [
+                            1.425060662450136,
+                            9.825395412633
+                        ],
+                        [
+                            1.46304284018467,
+                            9.334624335157088
+                        ],
+                        [
+                            1.664477573258381,
+                            9.12859039960938
+                        ],
+                        [
+                            1.618950636409238,
+                            6.832038072126238
+                        ],
+                        [
+                            1.865240512712319,
+                            6.142157701029731
+                        ],
+                        [
+                            1.060121697604927,
+                            5.928837388528876
+                        ],
+                        [
+                            0.836931186536333,
+                            6.279978745952149
+                        ],
+                        [
+                            0.570384148774849,
+                            6.914358628767189
+                        ],
+                        [
+                            0.490957472342245,
+                            7.411744289576475
+                        ],
+                        [
+                            0.712029249686879,
+                            8.31246450442383
+                        ],
+                        [
+                            0.461191847342121,
+                            8.677222601756014
+                        ],
+                        [
+                            0.365900506195885,
+                            9.465003973829482
+                        ],
+                        [
+                            0.367579990245389,
+                            10.19121287682718
+                        ],
+                        [
+                            -0.049784715159944,
+                            10.706917832883931
+                        ],
+                        [
+                            0.023802524423701,
+                            11.018681748900804
+                        ],
+                        [
+                            0.899563022474069,
+                            10.99733938236426
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "featurecla": "Admin-0 country",
+                "scalerank": 1,
+                "labelrank": 3,
+                "sovereignt": "Ghana",
+                "sov_a3": "GHA",
+                "adm0_dif": 0,
+                "level": 2,
+                "type": "Sovereign country",
+                "tlc": "1",
+                "admin": "Ghana",
+                "adm0_a3": "GHA",
+                "geou_dif": 0,
+                "geounit": "Ghana",
+                "gu_a3": "GHA",
+                "su_dif": 0,
+                "subunit": "Ghana",
+                "su_a3": "GHA",
+                "brk_diff": 0,
+                "name": "Ghana",
+                "name_long": "Ghana",
+                "brk_a3": "GHA",
+                "brk_name": "Ghana",
+                "brk_group": null,
+                "abbrev": "Ghana",
+                "postal": "GH",
+                "formal_en": "Republic of Ghana",
+                "formal_fr": null,
+                "name_ciawf": "Ghana",
+                "note_adm0": null,
+                "note_brk": null,
+                "name_sort": "Ghana",
+                "name_alt": null,
+                "mapcolor7": 5,
+                "mapcolor8": 3,
+                "mapcolor9": 1,
+                "mapcolor13": 4,
+                "pop_est": 30417856,
+                "pop_rank": 15,
+                "pop_year": 2019,
+                "gdp_md": 66983,
+                "gdp_year": 2019,
+                "economy": "6. Developing region",
+                "income_grp": "4. Lower middle income",
+                "fips_10": "GH",
+                "iso_a2": "GH",
+                "iso_a2_eh": "GH",
+                "iso_a3": "GHA",
+                "iso_a3_eh": "GHA",
+                "iso_n3": "288",
+                "iso_n3_eh": "288",
+                "un_a3": "288",
+                "wb_a2": "GH",
+                "wb_a3": "GHA",
+                "woe_id": 23424824,
+                "woe_id_eh": 23424824,
+                "woe_note": "Exact WOE match as country",
+                "adm0_iso": "GHA",
+                "adm0_diff": null,
+                "adm0_tlc": "GHA",
+                "adm0_a3_us": "GHA",
+                "adm0_a3_fr": "GHA",
+                "adm0_a3_ru": "GHA",
+                "adm0_a3_es": "GHA",
+                "adm0_a3_cn": "GHA",
+                "adm0_a3_tw": "GHA",
+                "adm0_a3_in": "GHA",
+                "adm0_a3_np": "GHA",
+                "adm0_a3_pk": "GHA",
+                "adm0_a3_de": "GHA",
+                "adm0_a3_gb": "GHA",
+                "adm0_a3_br": "GHA",
+                "adm0_a3_il": "GHA",
+                "adm0_a3_ps": "GHA",
+                "adm0_a3_sa": "GHA",
+                "adm0_a3_eg": "GHA",
+                "adm0_a3_ma": "GHA",
+                "adm0_a3_pt": "GHA",
+                "adm0_a3_ar": "GHA",
+                "adm0_a3_jp": "GHA",
+                "adm0_a3_ko": "GHA",
+                "adm0_a3_vn": "GHA",
+                "adm0_a3_tr": "GHA",
+                "adm0_a3_id": "GHA",
+                "adm0_a3_pl": "GHA",
+                "adm0_a3_gr": "GHA",
+                "adm0_a3_it": "GHA",
+                "adm0_a3_nl": "GHA",
+                "adm0_a3_se": "GHA",
+                "adm0_a3_bd": "GHA",
+                "adm0_a3_ua": "GHA",
+                "adm0_a3_un": -99,
+                "adm0_a3_wb": -99,
+                "continent": "Africa",
+                "region_un": "Africa",
+                "subregion": "Western Africa",
+                "region_wb": "Sub-Saharan Africa",
+                "name_len": 5,
+                "long_len": 5,
+                "abbrev_len": 5,
+                "tiny": -99,
+                "homepart": 1,
+                "min_zoom": 0,
+                "min_label": 2.7,
+                "max_label": 8,
+                "label_x": -1.036941,
+                "label_y": 7.717639,
+                "ne_id": 1159320793,
+                "wikidataid": "Q117",
+                "name_ar": "غانا",
+                "name_bn": "ঘানা",
+                "name_de": "Ghana",
+                "name_en": "Ghana",
+                "name_es": "Ghana",
+                "name_fa": "غنا",
+                "name_fr": "Ghana",
+                "name_el": "Γκάνα",
+                "name_he": "גאנה",
+                "name_hi": "घाना",
+                "name_hu": "Ghána",
+                "name_id": "Ghana",
+                "name_it": "Ghana",
+                "name_ja": "ガーナ",
+                "name_ko": "가나",
+                "name_nl": "Ghana",
+                "name_pl": "Ghana",
+                "name_pt": "Gana",
+                "name_ru": "Гана",
+                "name_sv": "Ghana",
+                "name_tr": "Gana",
+                "name_uk": "Гана",
+                "name_ur": "گھانا",
+                "name_vi": "Ghana",
+                "name_zh": "加纳",
+                "name_zht": "迦納",
+                "fclass_iso": "Admin-0 country",
+                "tlc_diff": null,
+                "fclass_tlc": "Admin-0 country",
+                "fclass_us": null,
+                "fclass_fr": null,
+                "fclass_ru": null,
+                "fclass_es": null,
+                "fclass_cn": null,
+                "fclass_tw": null,
+                "fclass_in": null,
+                "fclass_np": null,
+                "fclass_pk": null,
+                "fclass_de": null,
+                "fclass_gb": null,
+                "fclass_br": null,
+                "fclass_il": null,
+                "fclass_ps": null,
+                "fclass_sa": null,
+                "fclass_eg": null,
+                "fclass_ma": null,
+                "fclass_pt": null,
+                "fclass_ar": null,
+                "fclass_jp": null,
+                "fclass_ko": null,
+                "fclass_vn": null,
+                "fclass_tr": null,
+                "fclass_id": null,
+                "fclass_pl": null,
+                "fclass_gr": null,
+                "fclass_it": null,
+                "fclass_nl": null,
+                "fclass_se": null,
+                "fclass_bd": null,
+                "fclass_ua": null,
+                "filename": "GHA.geojson"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            0.023802524423701,
+                            11.018681748900804
+                        ],
+                        [
+                            -0.049784715159944,
+                            10.706917832883931
+                        ],
+                        [
+                            0.367579990245389,
+                            10.19121287682718
+                        ],
+                        [
+                            0.365900506195885,
+                            9.465003973829482
+                        ],
+                        [
+                            0.461191847342121,
+                            8.677222601756014
+                        ],
+                        [
+                            0.712029249686879,
+                            8.31246450442383
+                        ],
+                        [
+                            0.490957472342245,
+                            7.411744289576475
+                        ],
+                        [
+                            0.570384148774849,
+                            6.914358628767189
+                        ],
+                        [
+                            0.836931186536333,
+                            6.279978745952149
+                        ],
+                        [
+                            1.060121697604927,
+                            5.928837388528876
+                        ],
+                        [
+                            -0.507637905265938,
+                            5.343472601742675
+                        ],
+                        [
+                            -1.063624640294194,
+                            5.000547797053812
+                        ],
+                        [
+                            -1.964706590167594,
+                            4.710462144383371
+                        ],
+                        [
+                            -2.856125047202397,
+                            4.994475816259509
+                        ],
+                        [
+                            -2.81070146321784,
+                            5.38905121502411
+                        ],
+                        [
+                            -3.244370083011262,
+                            6.250471503113502
+                        ],
+                        [
+                            -2.983584967450327,
+                            7.379704901555513
+                        ],
+                        [
+                            -2.562189500326241,
+                            8.219627793811483
+                        ],
+                        [
+                            -2.827496303712707,
+                            9.642460842319778
+                        ],
+                        [
+                            -2.963896246747112,
+                            10.395334784380083
+                        ],
+                        [
+                            -2.940409308270461,
+                            10.962690334512558
+                        ],
+                        [
+                            -1.203357713211432,
+                            11.009819240762738
+                        ],
+                        [
+                            -0.761575893548183,
+                            10.936929633015055
+                        ],
+                        [
+                            -0.438701544588582,
+                            11.098340969278722
+                        ],
+                        [
+                            0.023802524423701,
+                            11.018681748900804
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "featurecla": "Admin-0 country",
+                "scalerank": 1,
+                "labelrank": 3,
+                "sovereignt": "Rwanda",
+                "sov_a3": "RWA",
+                "adm0_dif": 0,
+                "level": 2,
+                "type": "Sovereign country",
+                "tlc": "1",
+                "admin": "Rwanda",
+                "adm0_a3": "RWA",
+                "geou_dif": 0,
+                "geounit": "Rwanda",
+                "gu_a3": "RWA",
+                "su_dif": 0,
+                "subunit": "Rwanda",
+                "su_a3": "RWA",
+                "brk_diff": 0,
+                "name": "Rwanda",
+                "name_long": "Rwanda",
+                "brk_a3": "RWA",
+                "brk_name": "Rwanda",
+                "brk_group": null,
+                "abbrev": "Rwa.",
+                "postal": "RW",
+                "formal_en": "Republic of Rwanda",
+                "formal_fr": null,
+                "name_ciawf": "Rwanda",
+                "note_adm0": null,
+                "note_brk": null,
+                "name_sort": "Rwanda",
+                "name_alt": null,
+                "mapcolor7": 5,
+                "mapcolor8": 2,
+                "mapcolor9": 3,
+                "mapcolor13": 10,
+                "pop_est": 12626950,
+                "pop_rank": 14,
+                "pop_year": 2019,
+                "gdp_md": 10354,
+                "gdp_year": 2019,
+                "economy": "7. Least developed region",
+                "income_grp": "5. Low income",
+                "fips_10": "RW",
+                "iso_a2": "RW",
+                "iso_a2_eh": "RW",
+                "iso_a3": "RWA",
+                "iso_a3_eh": "RWA",
+                "iso_n3": "646",
+                "iso_n3_eh": "646",
+                "un_a3": "646",
+                "wb_a2": "RW",
+                "wb_a3": "RWA",
+                "woe_id": 23424937,
+                "woe_id_eh": 23424937,
+                "woe_note": "Exact WOE match as country",
+                "adm0_iso": "RWA",
+                "adm0_diff": null,
+                "adm0_tlc": "RWA",
+                "adm0_a3_us": "RWA",
+                "adm0_a3_fr": "RWA",
+                "adm0_a3_ru": "RWA",
+                "adm0_a3_es": "RWA",
+                "adm0_a3_cn": "RWA",
+                "adm0_a3_tw": "RWA",
+                "adm0_a3_in": "RWA",
+                "adm0_a3_np": "RWA",
+                "adm0_a3_pk": "RWA",
+                "adm0_a3_de": "RWA",
+                "adm0_a3_gb": "RWA",
+                "adm0_a3_br": "RWA",
+                "adm0_a3_il": "RWA",
+                "adm0_a3_ps": "RWA",
+                "adm0_a3_sa": "RWA",
+                "adm0_a3_eg": "RWA",
+                "adm0_a3_ma": "RWA",
+                "adm0_a3_pt": "RWA",
+                "adm0_a3_ar": "RWA",
+                "adm0_a3_jp": "RWA",
+                "adm0_a3_ko": "RWA",
+                "adm0_a3_vn": "RWA",
+                "adm0_a3_tr": "RWA",
+                "adm0_a3_id": "RWA",
+                "adm0_a3_pl": "RWA",
+                "adm0_a3_gr": "RWA",
+                "adm0_a3_it": "RWA",
+                "adm0_a3_nl": "RWA",
+                "adm0_a3_se": "RWA",
+                "adm0_a3_bd": "RWA",
+                "adm0_a3_ua": "RWA",
+                "adm0_a3_un": -99,
+                "adm0_a3_wb": -99,
+                "continent": "Africa",
+                "region_un": "Africa",
+                "subregion": "Eastern Africa",
+                "region_wb": "Sub-Saharan Africa",
+                "name_len": 6,
+                "long_len": 6,
+                "abbrev_len": 4,
+                "tiny": -99,
+                "homepart": 1,
+                "min_zoom": 0,
+                "min_label": 3,
+                "max_label": 8,
+                "label_x": 30.103894,
+                "label_y": -1.897196,
+                "ne_id": 1159321219,
+                "wikidataid": "Q1037",
+                "name_ar": "رواندا",
+                "name_bn": "রুয়ান্ডা",
+                "name_de": "Ruanda",
+                "name_en": "Rwanda",
+                "name_es": "Ruanda",
+                "name_fa": "رواندا",
+                "name_fr": "Rwanda",
+                "name_el": "Ρουάντα",
+                "name_he": "רואנדה",
+                "name_hi": "रवाण्डा",
+                "name_hu": "Ruanda",
+                "name_id": "Rwanda",
+                "name_it": "Ruanda",
+                "name_ja": "ルワンダ",
+                "name_ko": "르완다",
+                "name_nl": "Rwanda",
+                "name_pl": "Rwanda",
+                "name_pt": "Ruanda",
+                "name_ru": "Руанда",
+                "name_sv": "Rwanda",
+                "name_tr": "Ruanda",
+                "name_uk": "Руанда",
+                "name_ur": "روانڈا",
+                "name_vi": "Rwanda",
+                "name_zh": "卢旺达",
+                "name_zht": "盧旺達",
+                "fclass_iso": "Admin-0 country",
+                "tlc_diff": null,
+                "fclass_tlc": "Admin-0 country",
+                "fclass_us": null,
+                "fclass_fr": null,
+                "fclass_ru": null,
+                "fclass_es": null,
+                "fclass_cn": null,
+                "fclass_tw": null,
+                "fclass_in": null,
+                "fclass_np": null,
+                "fclass_pk": null,
+                "fclass_de": null,
+                "fclass_gb": null,
+                "fclass_br": null,
+                "fclass_il": null,
+                "fclass_ps": null,
+                "fclass_sa": null,
+                "fclass_eg": null,
+                "fclass_ma": null,
+                "fclass_pt": null,
+                "fclass_ar": null,
+                "fclass_jp": null,
+                "fclass_ko": null,
+                "fclass_vn": null,
+                "fclass_tr": null,
+                "fclass_id": null,
+                "fclass_pl": null,
+                "fclass_gr": null,
+                "fclass_it": null,
+                "fclass_nl": null,
+                "fclass_se": null,
+                "fclass_bd": null,
+                "fclass_ua": null,
+                "filename": "RWA.geojson"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            30.419104852019245,
+                            -1.134659112150416
+                        ],
+                        [
+                            30.816134881317712,
+                            -1.698914076345389
+                        ],
+                        [
+                            30.75830895358311,
+                            -2.287250257988369
+                        ],
+                        [
+                            30.46967,
+                            -2.41383
+                        ],
+                        [
+                            30.469673645761223,
+                            -2.41385475710134
+                        ],
+                        [
+                            29.93835900240794,
+                            -2.348486830254238
+                        ],
+                        [
+                            29.632176141078588,
+                            -2.917857761246097
+                        ],
+                        [
+                            29.024926385216787,
+                            -2.839257907730158
+                        ],
+                        [
+                            29.117478875451553,
+                            -2.292211195488385
+                        ],
+                        [
+                            29.254834832483343,
+                            -2.215109958508911
+                        ],
+                        [
+                            29.291886834436614,
+                            -1.620055840667987
+                        ],
+                        [
+                            29.579466180140884,
+                            -1.341313164885626
+                        ],
+                        [
+                            29.821518588996014,
+                            -1.443322442229785
+                        ],
+                        [
+                            30.419104852019245,
+                            -1.134659112150416
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
